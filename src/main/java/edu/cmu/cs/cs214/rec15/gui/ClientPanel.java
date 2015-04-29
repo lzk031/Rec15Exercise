@@ -118,6 +118,8 @@ public class ClientPanel extends JPanel implements ClientChangeListener {
 
 
     private JPanel createUserInfoPanel() {
+    	
+    	
         JPanel panel = new JPanel();
         panel.setLayout(new BoxLayout(panel, BoxLayout.Y_AXIS));
 
